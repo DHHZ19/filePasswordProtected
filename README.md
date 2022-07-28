@@ -1,4 +1,4 @@
-# My Awesome Project
+# Password Protect!
 I made this app for a user to have the ablity to password protect there images if they so choose.
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
